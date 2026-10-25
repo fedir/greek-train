@@ -1,0 +1,37 @@
+{
+  "endings": [
+    { "ending": "-ος", "genre": "m", "examples": ["ο δρόμος", "ο άνθρωπος", "ο φίλος"], "exceptions": ["η οδός", "η νόσος", "η έξοδος", "η είσοδος", "η μέθοδος", "η περίοδος", "η διάμετρος", "η παράγραφος", "η λεωφόρος", "η ψήφος"] },
+    { "ending": "-ης", "genre": "m", "examples": ["ο μαθητής", "ο ναύτης", "ο επιβάτης"], "exceptions": [] },
+    { "ending": "-ας", "genre": "m", "examples": ["ο άντρας", "ο πατέρας", "ο παππούς"], "exceptions": [] },
+    { "ending": "-έας", "genre": "m", "examples": ["ο γραμματέας", "ο συγγραφέας", "ο ταχυδρόμος"], "exceptions": [] },
+    { "ending": "-ές", "genre": "m", "examples": ["ο καφές", "ο μπακλαβάς", "ο τενεκές"], "exceptions": [] },
+    { "ending": "-α", "genre": "f", "examples": ["η γυναίκα", "η καρδιά", "η μέρα"], "exceptions": ["ο παπάς", "ο πελάτης"] },
+    { "ending": "-η", "genre": "f", "examples": ["η αγάπη", "η ζωή", "η πόλη"], "exceptions": [] },
+    { "ending": "-ια", "genre": "f", "examples": ["η αλήθεια", "η ιστορία", "η ευκαιρία"], "exceptions": [] },
+    { "ending": "-ω", "genre": "f", "examples": ["η Αθηνώ", "η ηχώ", "η πειθώ"], "exceptions": [] },
+    { "ending": "-ο", "genre": "n", "examples": ["το βιβλίο", "το αυτοκίνητο", "το χέρι"], "exceptions": ["ο παππούς"] },
+    { "ending": "-ι", "genre": "n", "examples": ["το παιδί", "το σπίτι", "το κορίτσι"], "exceptions": [] },
+    { "ending": "-μα", "genre": "n", "examples": ["το πράγμα", "το όνομα", "το πρόβλημα"], "exceptions": [] },
+    { "ending": "-σιμο", "genre": "n", "examples": ["το πλύσιμο", "το διάβασμα", "το μαγείρεμα"], "exceptions": [] },
+    { "ending": "-ος (neutre)", "genre": "n", "examples": ["το δάσος", "το έθνος", "το μέρος"], "exceptions": [] },
+    { "ending": "-ιμο", "genre": "n", "examples": ["το ταξίδι", "το αγγούρι", "το γόνιμο"], "exceptions": [] }
+  ],
+  "semantic_categories": [
+    { "category": "Mois et saisons", "genre": "m", "examples": ["ο Ιανουάριος", "ο χειμώνας", "ο Δεκέμβριος"] },
+    { "category": "Fleuves, montagnes, vents", "genre": "m", "examples": ["ο Αχελώος", "ο Όλυμπος", "ο βοριάς"] },
+    { "category": "Arbres (généralement)", "genre": "n", "examples": ["το πεύκο", "το πλατάνι", "το ελάτο"] },
+    { "category": "Fruits d'arbres (généralement)", "genre": "n", "examples": ["το μήλο", "το πορτοκάλι", "το αχλάδι"] },
+    { "category": "Pays, villes, îles (généralement)", "genre": "f", "examples": ["η Ελλάδα", "η Αθήνα", "η Κρήτη"] },
+    { "category": "Sciences et mots en -λογία", "genre": "f", "examples": ["η βιολογία", "η ιστορία", "η φιλοσοφία"] },
+    { "category": "Diminutifs en -άκι", "genre": "n", "examples": ["το σπιτάκι", "το παιδάκι", "το βιβλιαράκι"] },
+    { "category": "Lettres de l'alphabet", "genre": "n", "examples": ["το άλφα", "το βήτα", "το δέλτα"] }
+  ],
+  "special_cases": [
+    "Beaucoup de professions ont une forme féminine distincte (ο δάσκαλος / η δασκάλα, ο γιατρός / η γιατρός ou η γιατρίνα), mais certaines restent identiques quel que soit le sexe : ο/η δικαστής, ο/η ταμίας, ο/η συνάδελφος.",
+    "Les noms d'animaux ont souvent un genre grammatical fixe qui ne change pas selon le sexe biologique de l'animal : η αλεπού (renard mâle ou femelle), ο σκύλος, η γάτα.",
+    "Les mots étrangers entrés dans la langue grecque prennent souvent leur genre selon leur terminaison ou un mot grec équivalent : το πάρκινγκ (neutre, invariable), το ίντερνετ, το μέιλ.",
+    "Les mots composés prennent généralement le genre de leur composant principal : η πολυκατοικία (κατοικία, féminin), το αυτοκίνητο (κίνητο, neutre).",
+    "Les acronymes prennent le genre du mot principal de l'expression développée : η ΔΕΗ (entreprise), το ΑΕΙ (établissement), η ΕΕ (union).",
+    "Les noms invariables en -ι/-ου empruntés à des langues étrangères sont presque toujours neutres : το πάρτι, το μενού, το σάντουιτς."
+  ]
+}

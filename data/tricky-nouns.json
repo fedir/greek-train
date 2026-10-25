@@ -1,0 +1,31 @@
+{
+  "deceptive": [
+    { "ortho": "οδός", "genre": "f", "looks_like": "m", "note": "rue, chemin" },
+    { "ortho": "νόσος", "genre": "f", "looks_like": "m", "note": "maladie" },
+    { "ortho": "έξοδος", "genre": "f", "looks_like": "m", "note": "sortie" },
+    { "ortho": "είσοδος", "genre": "f", "looks_like": "m", "note": "entrée" },
+    { "ortho": "μέθοδος", "genre": "f", "looks_like": "m", "note": "méthode" },
+    { "ortho": "περίοδος", "genre": "f", "looks_like": "m", "note": "période" },
+    { "ortho": "διάμετρος", "genre": "f", "looks_like": "m", "note": "diamètre" },
+    { "ortho": "παράγραφος", "genre": "f", "looks_like": "m", "note": "paragraphe" },
+    { "ortho": "λεωφόρος", "genre": "f", "looks_like": "m", "note": "avenue" },
+    { "ortho": "ψήφος", "genre": "f", "looks_like": "m", "note": "vote" },
+    { "ortho": "άνοδος", "genre": "f", "looks_like": "m", "note": "montée, ascension" },
+    { "ortho": "κάθοδος", "genre": "f", "looks_like": "m", "note": "descente" },
+    { "ortho": "δάσος", "genre": "n", "looks_like": "m", "note": "forêt" },
+    { "ortho": "έθνος", "genre": "n", "looks_like": "m", "note": "nation" },
+    { "ortho": "κράτος", "genre": "n", "looks_like": "m", "note": "État, pays" },
+    { "ortho": "γένος", "genre": "n", "looks_like": "m", "note": "genre, lignée" },
+    { "ortho": "μέρος", "genre": "n", "looks_like": "m", "note": "partie, lieu" },
+    { "ortho": "τέλος", "genre": "n", "looks_like": "m", "note": "fin" },
+    { "ortho": "πλήθος", "genre": "n", "looks_like": "m", "note": "foule, multitude" },
+    { "ortho": "έδαφος", "genre": "n", "looks_like": "m", "note": "sol, terrain" },
+    { "ortho": "πάθος", "genre": "n", "looks_like": "m", "note": "passion" },
+    { "ortho": "ύψος", "genre": "n", "looks_like": "m", "note": "hauteur" },
+    { "ortho": "βάθος", "genre": "n", "looks_like": "m", "note": "profondeur" },
+    { "ortho": "πλάτος", "genre": "n", "looks_like": "m", "note": "largeur" }
+  ],
+  "homographs": [
+    { "ortho": "βάτος", "sense_a": { "genre": "m", "meaning": "la ronce, le buisson de mûres" }, "sense_b": { "genre": "f", "meaning": "le buisson ardent (biblique) ; une ancienne mesure de liquide" } }
+  ]
+}
